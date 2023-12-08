@@ -1,0 +1,13 @@
+Idea for Game: 
+2D Platformer where the 'character' morphs into different objects (Boat, Car. Helicopter etc) to navigate obstacles.
+(Game would most likely be of the Time Waster Type). 
+
+
+Reference Characters: Ditto (Pokemon) and Jake (Adventure Time)
+
+
+Audio Ideas:
+- The jumping could be similar to Mario jumping sound
+
+Potential Design Ideas:
+- Monochrome Theme
